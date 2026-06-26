@@ -18,7 +18,7 @@ Araştırmayı, yeni teknolojiler öğrenmeyi ve gerçek problemlere çözüm ü
 * Görüntü işleme alanında yenilikçi projeler geliştirmek
 * Yapay zekâ ve makine öğrenmesi uygulamaları üzerine çalışmak
 * Yüzeysel değil, derinlemesine araştırmalar yapmak
-* PHP, MySQL, Python, Flask ve FastAPI teknolojilerinde kendimi geliştirmek
+* PHP, MySQL, Python, Flask teknolojilerinde kendimi geliştirmek
 
 ---
 
