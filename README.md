@@ -11,7 +11,7 @@ Araştırmayı, yeni teknolojiler öğrenmeyi ve gerçek problemlere çözüm ü
 
 ---
 
-## 🚀 İlgi Alanlarım
+##  İlgi Alanlarım
 
 * Web sitesi ve admin panelli sistemler geliştirmek
 * Otomasyon projeleri üretmek
@@ -22,7 +22,7 @@ Araştırmayı, yeni teknolojiler öğrenmeyi ve gerçek problemlere çözüm ü
 
 ---
 
-## 🛠️ Teknik Yetenekler
+##  Teknik Yetenekler
 
 <div align="center">
 
@@ -68,9 +68,9 @@ Araştırmayı, yeni teknolojiler öğrenmeyi ve gerçek problemlere çözüm ü
 
 ---
 
-## 📌 Öne Çıkan Projem
+##  Öne Çıkan Projem
 
-### 🎯 Görüntü İşleme Tabanlı Odak Geliştirme Uygulaması
+###  Görüntü İşleme Tabanlı Odak Geliştirme Uygulaması
 
 Kullanıcıdan elde edilen görüntü verileri üzerinden odak süresini analiz eden; odak kaybına neden olabilecek davranışsal ve çevresel etkenleri tespit etmeyi amaçlayan yazılım tabanlı bitirme projesidir.
 
@@ -79,7 +79,7 @@ OpenCV, MediaPipe, Flask, PHP, Bootstrap, MySQL
 
 ---
 
-## 📚 Teknik Bilgi Alanlarım
+##  Teknik Bilgi Alanlarım
 
 <table>
 <tr>
@@ -116,19 +116,8 @@ OpenCV, MediaPipe, Flask, PHP, Bootstrap, MySQL
 
 ---
 
-## 📊 GitHub İstatistikleri
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Hedefim
+##  Hedefim
 
 Hedefim; teknik becerilerini sürekli geliştiren, işini hakkıyla yapan ve ürettiği çözümlerle insanlara ve ülkesine değer katan donanımlı bir bilgisayar mühendisi olmaktır.
 
