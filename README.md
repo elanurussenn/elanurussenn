@@ -4,7 +4,7 @@ Web geliştirme, görüntü işleme ve yapay zekâ alanlarıyla ilgileniyor; bu 
 
 ---
 
-## 🚀 İlgi Alanlarım
+##  İlgi Alanlarım
 
 * Web sitesi geliştirme
 * Admin panelli sistemler
@@ -15,7 +15,7 @@ Web geliştirme, görüntü işleme ve yapay zekâ alanlarıyla ilgileniyor; bu 
 
 ---
 
-## 🛠️ Teknik Yetenekler
+##  Teknik Yetenekler
 
 ### Programlama Dilleri
 
@@ -77,7 +77,7 @@ Web geliştirme, görüntü işleme ve yapay zekâ alanlarıyla ilgileniyor; bu 
 
 ---
 
-## 📌 Şu Anda Üzerinde Çalıştığım Proje
+##  Şu Anda Üzerinde Çalıştığım Proje
 
 ### Görüntü İşleme Tabanlı Odak Geliştirme Uygulaması
 
@@ -87,12 +87,12 @@ Kullanıcıdan elde edilen görüntü verileri üzerinden odak süresini analiz 
 
 ---
 
-## 🎯 Hedefim
+##  Hedefim
 
 Hedefim; teknik becerilerini sürekli geliştiren, işini hakkıyla yapan ve ürettiği çözümlerle insanlara ve ülkesine değer katan donanımlı bir bilgisayar mühendisi olmaktır.
 
 ---
 
-## 📫 İletişim
+##  İletişim
 
 GitHub üzerinden bana ulaşabilirsiniz.
