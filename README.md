@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, ben Elanur Usşen 👋
+# Merhaba, ben Elanur Usşen 🌟
 
 ### Bilgisayar Mühendisi Adayı | Web Geliştirme | Görüntü İşleme | Yapay Zekâ
 
@@ -123,7 +123,7 @@ Hedefim; teknik becerilerini sürekli geliştiren, işini hakkıyla yapan ve ür
 
 ---
 
-## 📫 İletişim
+##  İletişim
 
 <div align="center">
 
